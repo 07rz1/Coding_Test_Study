@@ -37,6 +37,8 @@ public class Solution {
 
 ### 출력 예시 
 
-<p>Spring is beginning
+```
+Spring is beginning
 13
-310</p>
+310
+```
