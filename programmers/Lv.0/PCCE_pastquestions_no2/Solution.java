@@ -9,5 +9,6 @@ public class Solution {
         int b_square = (c*c - a*a);
 
         System.out.println(b_square);
+        sc.close();
     }
 }
