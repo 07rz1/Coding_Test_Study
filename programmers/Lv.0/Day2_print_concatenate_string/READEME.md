@@ -21,10 +21,6 @@
 <p>입출력 예와 같이 str1과 str2을 이어서 출력하는 코드를 작성해 보세요.</p>
 
 ```
-a + b = c
-```
-
-```
 import java.util.Scanner;
 
 public class Solution {
