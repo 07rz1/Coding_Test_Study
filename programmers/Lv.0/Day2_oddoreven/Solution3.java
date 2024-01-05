@@ -7,7 +7,7 @@ public class Solution3 {
         int n = sc.nextInt();
 
         if (n % 2 == 0){
-            System.out.println(n + " is even");
+            System.out.println(n + " is even"); // if문에 바로 조건 추가
         } else {
             System.out.println(n + " is odd");
         }
