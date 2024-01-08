@@ -20,5 +20,4 @@ class Solution {
         String result = solutionInstance.solution(testArray);
         System.out.println(result);
     }
-
 }
